@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T14:20:27.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="PYJaomros0hWm99Fsaop" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-28T14:52:55.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="dFy1JNm8yEFcVocghglF" version="14.1.2" type="github">
   <diagram id="n-NnAuZucIBLQFDC21As" name="Page-1">
     <mxGraphModel dx="1038" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZPUTiyQ1qUzJEtRdTh9M-3" value="A2&lt;br&gt;because let&#39;s face it, no lawyer would want to represent a video game stealer.. So are you ready for this nail biting adventure?&amp;nbsp;&lt;br&gt;Since this is a choice based game, you will have to use the key bindings 1, 2 and 3.&amp;nbsp;&lt;br&gt;TUTORIAL:&amp;nbsp;&lt;br&gt;Press (1): If you are ready to play the game and help ROBIN find his way out of DUNDEE PRISON&amp;nbsp;&lt;br&gt;PRESS (2): If you don&#39;t like helping someone who steals video games.&lt;br&gt;PRESS (3): If you want to read the prologue all over again." style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-60" width="230" height="230" as="geometry" />
+          <mxGeometry x="241" y="-60" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ZPUTiyQ1qUzJEtRdTh9M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZPUTiyQ1qUzJEtRdTh9M-3" target="ZPUTiyQ1qUzJEtRdTh9M-3">
           <mxGeometry relative="1" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="1115" y="-830" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ZPUTiyQ1qUzJEtRdTh9M-29" value="B5&lt;br&gt;The day has come. But where are all the tools I stole with Dan and James?? Wait! Where are they??&amp;nbsp;&lt;br&gt;Is that... them? (The guards arrive)&amp;nbsp;&lt;br&gt;Robin you prick! I told you the first day not to try to escape us and now two prisoners reported the tools you were hiding after stealing from places in the prison.&amp;nbsp;&lt;br&gt;I can&#39;t believe they did this to me.. Do I have to start all over again? Yikes.&amp;nbsp;&lt;br&gt;1. Game over&lt;br&gt;3. Previous page" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="-360" width="151.25" height="151.25" as="geometry" />
+          <mxGeometry x="1390" y="-360" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
